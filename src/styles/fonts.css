@@ -1,0 +1,42 @@
+
+@font-face {
+	font-family: "BerkeleyStd-Medium";
+	src: url('../assets/webfonts/39B646_1_0.eot');
+	src: url('../assets/webfonts/39B646_1_0.eot?#iefix') format('embedded-opentype'), url('../assets/webfonts/39B646_1_0.woff2') format('woff2'), url('../assets/webfonts/39B646_1_0.woff') format('woff'), url('../assets/webfonts/39B646_1_0.ttf') format('truetype'), url('../assets/webfonts/39B646_1_0.svg#wf') format('svg');
+}
+
+@font-face {
+	font-family: "BerkeleyStd-Bold";
+	src: url('../assets/webfonts/39B646_2_0.eot');
+	src: url('../assets/webfonts/39B646_2_0.eot?#iefix') format('embedded-opentype'), url('../assets/webfonts/39B646_2_0.woff2') format('woff2'), url('../assets/webfonts/39B646_2_0.woff') format('woff'), url('../assets/webfonts/39B646_2_0.ttf') format('truetype'), url('../assets/webfonts/39B646_2_0.svg#wf') format('svg');
+}
+
+@font-face {
+	font-family: "HelveticaNeue-Light";
+	src: url('../assets/webfonts/39B646_3_0.eot');
+	src: url('../assets/webfonts/39B646_3_0.eot?#iefix') format('embedded-opentype'), url('../assets/webfonts/39B646_3_0.woff2') format('woff2'), url('../assets/webfonts/39B646_3_0.woff') format('woff'), url('../assets/webfonts/39B646_3_0.ttf') format('truetype'), url('../assets/webfonts/39B646_3_0.svg#wf') format('svg');
+}
+
+@font-face {
+	font-family: "HelveticaNeue";
+	src: url('../assets/webfonts/39B646_4_0.eot');
+	src: url('../assets/webfonts/39B646_4_0.eot?#iefix') format('embedded-opentype'), url('../assets/webfonts/39B646_4_0.woff2') format('woff2'), url('../assets/webfonts/39B646_4_0.woff') format('woff'), url('../assets/webfonts/39B646_4_0.ttf') format('truetype'), url('../assets/webfonts/39B646_4_0.svg#wf') format('svg');
+}
+
+@font-face {
+	font-family: "HelveticaNeue-Medium";
+	src: url('../assets/webfonts/39B646_5_0.eot');
+	src: url('../assets/webfonts/39B646_5_0.eot?#iefix') format('embedded-opentype'), url('../assets/webfonts/39B646_5_0.woff2') format('woff2'), url('../assets/webfonts/39B646_5_0.woff') format('woff'), url('../assets/webfonts/39B646_5_0.ttf') format('truetype'), url('../assets/webfonts/39B646_5_0.svg#wf') format('svg');
+}
+
+@font-face {
+	font-family: "HelveticaNeue-Bold";
+	src: url('../assets/webfonts/39B646_6_0.eot');
+	src: url('../assets/webfonts/39B646_6_0.eot?#iefix') format('embedded-opentype'), url('../assets/webfonts/39B646_6_0.woff2') format('woff2'), url('../assets/webfonts/39B646_6_0.woff') format('woff'), url('../assets/webfonts/39B646_6_0.ttf') format('truetype'), url('../assets/webfonts/39B646_6_0.svg#wf') format('svg');
+}
+
+@font-face {
+	font-family: "HelveticaNeue-CondensedBold";
+	src: url('../assets/webfonts/39B646_7_0.eot');
+	src: url('../assets/webfonts/39B646_7_0.eot?#iefix') format('embedded-opentype'), url('../assets/webfonts/39B646_7_0.woff2') format('woff2'), url('../assets/webfonts/39B646_7_0.woff') format('woff'), url('../assets/webfonts/39B646_7_0.ttf') format('truetype'), url('../assets/webfonts/39B646_7_0.svg#wf') format('svg');
+}
